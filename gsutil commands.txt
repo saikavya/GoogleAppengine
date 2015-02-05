@@ -1,0 +1,5 @@
+NAME:  SAI KAVYA, DUKKIPATI
+UTA ID: 1000980778
+
+gsutil mb gs://bucketname
+echo|time & gsutil cp *.txt gs://bucketname & echo|time
